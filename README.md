@@ -5,7 +5,7 @@ nothing interesting, i know
 ズ乇尺乇刀 乃ﾑ刀ム乇ｲ 丂ﾉん ムW乇ん
 
 testing bbcode
-[b]BOO[b]
+[b]BOO[/b]
 
 <!---
 R4Qabdi/R4Qabdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
